@@ -8,4 +8,4 @@ Fonction:
 -Stocker dans un fichier texte le plus haute valeur d'une suite et en combien de temps la valeur 1 est atteinte
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibaudmaciuk&count_private=true&icon=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibaudmaciuk&count_private=true&show_icons=true&theme=radical))
